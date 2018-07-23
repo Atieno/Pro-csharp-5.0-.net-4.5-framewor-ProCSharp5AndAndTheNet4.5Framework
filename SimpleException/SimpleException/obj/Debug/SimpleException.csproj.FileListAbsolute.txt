@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\ProCSharp5AndAndTheNet4.5Framework\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\ProCSharp5AndAndTheNet4.5Framework\SimpleException\SimpleException\bin\Debug\SimpleException.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\ProCSharp5AndAndTheNet4.5Framework\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\ProCSharp5AndAndTheNet4.5Framework\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\ProCSharp5AndAndTheNet4.5Framework\SimpleException\SimpleException\obj\Debug\SimpleException.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\ProCSharp5AndAndTheNet4.5Framework\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
